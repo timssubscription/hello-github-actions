@@ -1,4 +1,4 @@
-#Here is my comment
+#Here is my comments
 FROM debian:9.5-slim
 
 ADD entrypoint.sh /entrypoint.sh
